@@ -1,0 +1,276 @@
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Connecting to storage
+Storage connection lost { Error: connect ECONNREFUSED 127.0.0.1:21025
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1186:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 21025 }
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Connecting to storage
+Storage connection lost { Error: connect ECONNREFUSED 127.0.0.1:21025
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1186:14)
+  code: 'ECONNREFUSED',
+  errno: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '127.0.0.1',
+  port: 21025 }
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
+Loading mods from "/Users/danielmiller/r/MultiScrAI/spec/server/db.json"
+Connecting to storage
+Got SIGTERM, disabling queue fetching
+Storage connection lost
