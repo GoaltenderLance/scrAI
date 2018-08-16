@@ -11,7 +11,8 @@ By using a strongly typed and class based language, this project sets out to dev
 Status
 ---------
  - This is a blank template for you to create your own Screeps bot in Java
- - Unit Testing skeleton is in place, but needs work
+ - Unit Testing skeleton is in place
+ - Integration testing using screeps-server-mockup is also in place
 
 Dependencies
 ----------
